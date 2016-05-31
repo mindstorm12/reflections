@@ -17,3 +17,8 @@ history organized? How would branches help?
 Branches can help in creating experimental versions of the project.
 They can also be used to keep a working master version that can be used
 to show to your friends or family.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help in understanding which branch has which features. It can 
+also help in selecting a starting for new directions or updates
+for the project.
