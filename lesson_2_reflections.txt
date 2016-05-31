@@ -4,4 +4,16 @@ to the directory which is our repository.
 
 How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
-Staging area is the current state of file that will be saved on the next commit
+Staging area is the current state of file that will be saved on the 
+next commit.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+After making change to one file, it can be added to the staging area; 
+then the project can be committed. The same can be done to each file.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+Branches can help in creating experimental versions of the project.
+They can also be used to keep a working master version that can be used
+to show to your friends or family.
