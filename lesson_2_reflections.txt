@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 When a repository is initialized, a hidden file called ".git" is added 
 to the directory which is our repository.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+Staging area is the current state of file that will be saved on the next commit
