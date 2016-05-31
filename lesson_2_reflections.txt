@@ -22,3 +22,7 @@ How do the diagrams help you visualize the branch structure?
 Diagrams help in understanding which branch has which features. It can 
 also help in selecting a starting for new directions or updates
 for the project.
+
+What is the result of merging two branches together? why do we 
+represent it in the diagram the way we do?
+Merging the two branches combines the feature in both branches into one single branch.
