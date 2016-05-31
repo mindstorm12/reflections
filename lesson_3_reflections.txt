@@ -8,3 +8,5 @@ Git automatically stay up-to-date with your remote repository?
 If multiple people are working on the same file, automatic pulling will 
 create multiple versions of the same file, or may replace your file in 
 your local repository, which you may want to avoid.
+
+Describe the differences between forks, clones and branches. When would you use one instead of another?
