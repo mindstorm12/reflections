@@ -25,4 +25,13 @@ for the project.
 
 What is the result of merging two branches together? why do we 
 represent it in the diagram the way we do?
-Merging the two branches combines the feature in both branches into one single branch.
+Merging the two branches combines the feature in both branches into one 
+single branch.
+
+What are the pros and cons of Git's automatic merging vs. always doing 
+merges manually?
+Automatic merges using git saves a lot of time and effort put in in 
+reorganizing the files that have been changed and testing them out.
+Doing changes manually ensures what changes are to be kept and what need
+to be removed. Sometimes, unwanted changes might appear in the final 
+file if git merge is used. 
