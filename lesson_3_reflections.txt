@@ -24,3 +24,7 @@ remote stored locally?
 If any unwanted changes are uploaded to the online repository, one 
 version without this changes that is stored locally can be used to 
 create a new branch.
+
+How would you collaborate without using Git or Github? What would be 
+easier and what would be harder?
+Share code through email or slack.
