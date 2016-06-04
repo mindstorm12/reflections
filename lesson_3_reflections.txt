@@ -28,3 +28,10 @@ create a new branch.
 How would you collaborate without using Git or Github? What would be 
 easier and what would be harder?
 Share code through email or slack.
+
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+Making changes in a separate branch makes sure that you have a 
+working version of the project in case the changes causes the program
+to crash or are unwanted. Making changes directly in the master reduces
+development time and effort.
