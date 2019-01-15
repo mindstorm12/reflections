@@ -1,1 +1,1 @@
-Anger leads to hatred
+There is only the force
