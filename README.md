@@ -1,0 +1,1 @@
+Anger leads to hatred
