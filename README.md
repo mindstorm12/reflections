@@ -1,1 +1,2 @@
-Anger leads to hatred
+
+That is the way of the Sith
